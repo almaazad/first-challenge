@@ -1,0 +1,18 @@
+@import url(style/font/font.css);
+@import url(style/font2/YoungSerif-Regular.ttf);
+body{
+    font-family: myfont;
+}
+.bg-mycolor{
+    background-color: #f3e5d8bd;
+}
+.mycolor{
+    color: #73465b;
+}
+.mycolor2{
+    color: #744245;
+}
+.spfont{
+    font-family: myfont2;
+    font-weight: bold;
+}

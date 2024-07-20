@@ -1,0 +1,45 @@
+@font-face {
+    font-family: myfont;
+    font-weight: 100;
+    src: url("Outfit-Thin.ttf");
+  }
+  @font-face {
+    font-family: myfont;
+    font-weight: 200;
+    src: url(Outfit-ExtraLight.ttf);
+  }
+  @font-face {
+    font-family: myfont;
+    font-weight: 300;
+    src: url(Outfit-Light.ttf);
+  }
+  @font-face {
+    font-family: myfont;
+    font-weight: 400;
+    src: url(Outfit-Regular.ttf);
+  }
+  @font-face {
+    font-family: myfont;
+    font-weight: 500;
+    src: url(Outfit-Medium.ttf);
+  }
+  @font-face {
+    font-family: myfont;
+    font-weight: 600;
+    src: url(Outfit-SemiBold.ttf);
+  }
+  @font-face {
+    font-family: myfont;
+    font-weight: 700;
+    src: url(Outfit-Bold.ttf);
+  }
+  @font-face {
+    font-family: myfont;
+    font-weight: 800;
+    src: url(Outfit-ExtraBold.ttf);
+  }
+  @font-face {
+    font-family: myfont;
+    font-weight: 900;
+    src: url(Outfit-Black.ttf);
+  }
